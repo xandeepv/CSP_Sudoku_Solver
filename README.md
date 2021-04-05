@@ -20,6 +20,8 @@ Tags: Machine Learning, Artificial Intelligence, Computer Vision, sudoku grid ex
 Video stream analysis, Sudoku solution, Constraint Satisfaction Problem (CSP)
 
 Copyright - The Owner needs to be tagged in any replication or clone of this program or part of the solutions.
+
+
 For Students- Please do not use this code directly to solve your course projects. Try to put some effort and it is going to pay you well in future
 
 
